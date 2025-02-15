@@ -29,7 +29,7 @@ This project analyzes data from 1000 bike buyers, presenting insights through an
 
 📜 About the Project
 * Tool: Microsoft Excel
-* Dataset: Bike Buyers Dataset from Kaggle
+* Dataset: Kaggle [Bike Buyers Dataset](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers)
 * Tutorial Reference: Dashboard inspired by Alex The Analyst (YouTube)
 
 Skills Practiced: Data Analysis, Visualization, Dashboard Creation
